@@ -16,7 +16,7 @@ import tkinter as tk
 import difflib
 import math
 import textwrap
-0
+
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("dark-blue")
