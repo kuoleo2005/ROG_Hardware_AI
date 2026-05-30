@@ -1,0 +1,9 @@
+customtkinter
+psutil
+GPUtil
+py-cpuinfo
+requests
+WMI
+pywin32
+nvidia-ml-py
+matplotlib
